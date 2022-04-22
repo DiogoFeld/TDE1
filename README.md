@@ -33,8 +33,7 @@ Repositório para a disciplina da E-prof
 	Realizar um organização do código, separando labirinto, pilha e "cralwing".
 	Melhor a apresentação do README;	
 </div>
-</br>
-</br>
+
 </br>
 <h3> Exemplo</h3>
 <div>
