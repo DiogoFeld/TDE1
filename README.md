@@ -1,5 +1,5 @@
 # TDE1
-repositório para a disciplina da E-prof 
+Repositório para a disciplina da E-prof 
 
 
 
