@@ -28,6 +28,8 @@ repositório para a disciplina da E-prof
 	Melhor a apresentação do README;	
 </div>
 
-
+<div>
+	<img src="https://github.com/DiogoFeld/TDE1/blob/main/img/Labirinto.PNG" style="max-width: 100%;"> 
+	</div>
 
 
