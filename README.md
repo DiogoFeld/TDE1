@@ -1,7 +1,33 @@
 # TDE1
-repositório para a E-prof 
+repositório para a disciplina da E-prof 
 
-<h1> Labirinto </h1>
+<h5>
+	Sobre:
+</h5>
+
+<div>
+	Projeto criado para a matéria de pilhas, realizando um percurso para encontrar a saida de um labirinto (string bilateral) na linguagem Java.
+</div>
+
+
+<h5>
+	Desafios Notados:
+</h5>
+
+<div>
+	Condunfir x com y para coordenas não dá um bom resultado.
+	Encontrar a saida e não identificar ela como sendo saida também não
+</div>
+
+<h5>
+	A fazer:
+</h5>
+
+<div>
+	Realizar um organização do código, separando labirinto, pilha e "cralwing".
+	Melhor a apresentação do README;	
+</div>
+
 
 
 
