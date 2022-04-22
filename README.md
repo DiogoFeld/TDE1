@@ -27,9 +27,12 @@ repositório para a disciplina da E-prof
 	Realizar um organização do código, separando labirinto, pilha e "cralwing".
 	Melhor a apresentação do README;	
 </div>
-
+</br>
+</br>
+</br>
+<h3> Exemplo</h3>
 <div>
 	<img src="https://github.com/DiogoFeld/TDE1/blob/main/img/Labirinto.PNG" style="max-width: 100%;"> 
 	</div>
-
+<p>Exemplo de labirinto sendo percorrido, onde # são muros e X são os locais percorridos. </p> 
 
