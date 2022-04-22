@@ -15,7 +15,7 @@ repositório para a disciplina da E-prof
 </h5>
 
 <div>
-	Condunfir x com y para coordenas não dá um bom resultado.
+	Confundir x com y para coordenas não dá um bom resultado.
 	Encontrar a saida e não identificar ela como sendo saida também não
 </div>
 
